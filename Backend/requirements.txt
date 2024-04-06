@@ -1,0 +1,17 @@
+flask
+flask-cors
+flask-restful
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+jsonify
+timeago
+requests
+celery
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+google-api-python-client
+httplib2
+flask-login
+requests
